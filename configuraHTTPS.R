@@ -58,4 +58,4 @@
 # ... pregunto id (email) y psswrd por última vez
 #
 # editando de nuevo para verificar al credential helper de Win8.1 (manager)
-#
+# Hecho...!!! ya no preguntó nada. OK.
