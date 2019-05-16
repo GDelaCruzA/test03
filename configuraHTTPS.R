@@ -54,3 +54,5 @@
 # el requerimiento de las credenciales de acceso desde el equipo en el que
 # hicimos la activación del manejo de credenciales.
 # 
+# editando la configuración HTTPS en MVac10@work con las facilidades de RStudio.
+#
