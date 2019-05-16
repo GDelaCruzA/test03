@@ -55,4 +55,7 @@
 # hicimos la activación del manejo de credenciales.
 # 
 # editando la configuración HTTPS en MVac10@work con las facilidades de RStudio.
+# ... pregunto id (email) y psswrd por última vez
+#
+# editando de nuevo para verificar al credential helper de Win8.1 (manager)
 #
