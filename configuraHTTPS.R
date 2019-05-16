@@ -39,7 +39,7 @@
 #  master 92c6971 [origin/master] configuracion del acceso via HTTPS
 # 
 # Para sembrar las credenciales debemos realizar el proceso de actualización
-# del repo remoto en github, de la sigugitiente manera:
+# del repo remoto en github, de la siguiente manera:
 # 
 # En RStudio, crear o editar un archivo existente (puede ser el README.md o
 # un script de R existente o nuevo), guardarlo como es usual y luego, como es
