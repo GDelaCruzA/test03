@@ -76,4 +76,5 @@
 # ... preguntó el id y el psswrd (se supone que la última vez).
 # editando de nuevo para verificar al credential helper de Linux
 # 
-
+# Hecho...!!! ya no preguntó nada. OK.
+#
