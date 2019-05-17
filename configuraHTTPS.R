@@ -78,3 +78,24 @@
 # 
 # Hecho...!!! ya no preguntó nada. OK.
 #
+# Estamos el la Mac (OS X v10.11.6 El Capitan)...
+# verificamos (3) y (4)
+#
+#           git remote -v
+# y
+#           git branch -vv
+#
+# Probamos la exitencia del manejador de credenciales con el sigiente comando:
+#
+#           gdelac$ git credential-osxkeychain
+#
+# que responde con la siguiente línea:
+#
+#           usage: git credential-osxkeychain <get|store|erase>
+#
+# entonces configuramos:
+#
+#           git config --global credential.helper osxkeychain
+#
+# el paso (5) guardando estas adiciones al texto...
+# ... preguntó el id y el psswrd (se supone que la última vez).
