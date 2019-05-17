@@ -73,5 +73,7 @@
 #           git branch -vv
 #
 # el paso (5) guardando estas adiciones al texto...
+# ... preguntó el id y el psswrd (se supone que la última vez).
+# editando de nuevo para verificar al credential helper de Linux
 # 
 
